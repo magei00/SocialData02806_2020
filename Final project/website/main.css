@@ -1,0 +1,23 @@
+body {
+	
+	background: #899;
+	font-family: consolas;
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #000;
+	margin: auto;
+  	width: 50%;	
+}
+a {
+	color: green;
+}
+  
+.map_1{
+    	display: flex;
+	justify-content: center;
+	align-items: center;
+}
